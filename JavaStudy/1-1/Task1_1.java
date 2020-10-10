@@ -23,7 +23,7 @@ hogeString = "合格";
 // ⑥変数 hogeInt の値を表示
 System.out.println(hogeInt);
 // ⑦下記の処理について、何をしているのかコメントを記入してください
-// [　hogeString1という上書きした変数の値を出力]
+// [　hogeStringという上書きした変数の値を出力]
         System.out.println(hogeString);
 
  // ⑧変数 hogeDouble の値を表示
