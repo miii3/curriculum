@@ -1,7 +1,7 @@
-
 public class Task1_1 {
 
-    public static void main(String[] args) {
+
+public static void main(String[] args) {
 // ①int型の hogeInt という名前の変数を宣言し、値「50」で初期化
 int hogeInt = 50;
 
@@ -14,16 +14,17 @@ String hogeString = "テスト";
         double hogeDouble = 0.2;
 
 // ④変数 hogeInt を値「100」で上書き
-int hogeInt1 =100;
+hogeInt =100;
+
 
  // ⑤変数 hogeString を値「合格」で上書き
- String hogeString1 = "合格";
+hogeString = "合格";
  
 // ⑥変数 hogeInt の値を表示
-System.out.println(hogeInt1);
+System.out.println(hogeInt);
 // ⑦下記の処理について、何をしているのかコメントを記入してください
 // [　hogeString1という上書きした変数の値を出力]
-        System.out.println(hogeString1);
+        System.out.println(hogeString);
 
  // ⑧変数 hogeDouble の値を表示
  System.out.println(hogeDouble);
