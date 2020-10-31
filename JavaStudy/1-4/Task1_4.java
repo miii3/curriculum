@@ -30,7 +30,7 @@ if (name.equals ("alice") && pass.equals ("pass") ) {
 
         // ③ 名前のみ正しい場合、「 パスワードに誤りがあります。 」と出力してください。
 
-} else if (name.equals("alice")) {
+} else if (name.equals("name")) {
     System.out.println("パスワードに誤りがあります。"); 
 
         // ④ パスワードのみ正しい場合、「 名前に誤りがあります。 」と出力してください。
